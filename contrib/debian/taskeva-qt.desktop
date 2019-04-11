@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Taskeva
+Comment=Taskeva P2P Cryptocurrency
+Comment[fr]=Taskeva, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Taskeva, eşten eşe kriptografik sanal para birimi
+Exec=taskeva-qt %u
+Terminal=false
+Type=Application
+Icon=taskeva128
+MimeType=x-scheme-handler/taskeva;
+Categories=Office;Finance;

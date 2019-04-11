@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/taskeva_bg.qm</file>
+        <file alias="ca">locale/taskeva_ca.qm</file>
+        <file alias="cs">locale/taskeva_cs.qm</file>
+        <file alias="da">locale/taskeva_da.qm</file>
+        <file alias="de">locale/taskeva_de.qm</file>
+        <file alias="en">locale/taskeva_en.qm</file>
+        <file alias="en_US">locale/taskeva_en_US.qm</file>
+        <file alias="es">locale/taskeva_es.qm</file>
+        <file alias="fi">locale/taskeva_fi.qm</file>
+        <file alias="fr_FR">locale/taskeva_fr_FR.qm</file>
+        <file alias="hr">locale/taskeva_hr.qm</file>
+        <file alias="it">locale/taskeva_it.qm</file>
+        <file alias="ja">locale/taskeva_ja.qm</file>
+        <file alias="ko_KR">locale/taskeva_ko_KR.qm</file>
+        <file alias="nl">locale/taskeva_nl.qm</file>
+        <file alias="pl">locale/taskeva_pl.qm</file>
+        <file alias="pt">locale/taskeva_pt.qm</file>
+        <file alias="pt_BR">locale/taskeva_pt_BR.qm</file>
+        <file alias="ro_RO">locale/taskeva_ro_RO.qm</file>
+        <file alias="ru">locale/taskeva_ru.qm</file>
+        <file alias="sk">locale/taskeva_sk.qm</file>
+        <file alias="sv">locale/taskeva_sv.qm</file>
+        <file alias="tr">locale/taskeva_tr.qm</file>
+        <file alias="uk">locale/taskeva_uk.qm</file>
+        <file alias="zh_CN">locale/taskeva_zh_CN.qm</file>
+        <file alias="zh_TW">locale/taskeva_zh_TW.qm</file>
+    </qresource>
+</RCC>

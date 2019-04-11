@@ -1,0 +1,11 @@
+[Protocol]
+exec=taskeva-qt '%u'
+protocol=taskeva
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
